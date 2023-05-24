@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 1.4;
+}
+
+section {
+  background-color: #51e6a8;
+  padding: 2rem;
+}/*# sourceMappingURL=style.css.map */

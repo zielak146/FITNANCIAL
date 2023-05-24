@@ -1,0 +1,23 @@
+$primary-color: rgb(3, 2, 53);
+$overlay-color: rgba(0, 162, 234, 0.4);
+$secondary-color: rgba(#00a2ea, 0.796);
+$menu-speed: 0.75s;
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Nunito Sans', sans-serif;
+	line-height: 1.4;
+
+}
+
+
+section{
+	background-color: #51e6a8;
+	padding: 2rem;;
+}
